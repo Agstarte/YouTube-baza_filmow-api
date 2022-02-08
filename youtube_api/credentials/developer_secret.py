@@ -1,0 +1,5 @@
+API_KEYS = [
+    'AIzaSyD5VxWwvU9RM2hQQVP2yfXHRU-5vitZvEg',
+    'AIzaSyDC4g8d-zThQDTPWUhLTtFeQ56TCj0WcLM',
+    'AIzaSyDoDSY49V5-PnhahGlFhVTJzwRX_IrWSzc'
+]
